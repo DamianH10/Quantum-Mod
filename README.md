@@ -16,3 +16,8 @@ This mod started out as a herdcode project, but it was ABSOLUTE
 AGONY to hardcode, scince there was basically NO documentation.
 So this new version is made in Jokerforge.
 old version: https://github.com/DamianH10/OLD-Quantum-Mod-balatro
+
+How 2 install:
+1. Copy the folder; Quantum
+2. Put it into your Mods folder (in Balatro)
+3. Done
