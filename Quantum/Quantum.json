@@ -1,0 +1,17 @@
+{
+  "id": "Quantum",
+  "name": "Quantum",
+  "author": [
+    "Damian"
+  ],
+  "description": "Bringing (not just) Particle Phyisics to Balatro (very Unbalanced). \"Goal\" of the mod: Discover every card I guess?",
+  "prefix": "quant",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": 0,
+  "badge_colour": "009D4C",
+  "badge_text_colour": "000102",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
