@@ -26,3 +26,6 @@ There will also be a folder with .zip files for all Versions
 acting as a lib for older versions and early access (for minor updates).
 btw: .zip files are soooo much easier to upload than a whole 100 file PLUS
 raw mod file (Git hub prevents uploading more than 100 files at a time, very annoying).
+
+Rights/Copyright:
+idk, do whatever you want, just credit me ig.
