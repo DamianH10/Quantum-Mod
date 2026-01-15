@@ -21,3 +21,6 @@ How 2 install:
 1. Copy the folder; Quantum
 2. Put it into your Mods folder (in Balatro)
 3. Done
+
+There will also be a folder with .zip files for all Versions
+acting as a lib for older versions and early access (for minor updates).
