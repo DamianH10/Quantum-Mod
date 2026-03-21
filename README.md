@@ -1,4 +1,4 @@
-This mod is (vaguely) based around Quantum (&Nucear) stuff, as you can tell by the name. 
+This mod is (vaguely) based around Quantum (&Nucear) stuff (but also includes some more random stuff), as you can tell by the name. 
 What does this mod add:
 100+ Jokers
 10+ Consumables
@@ -6,6 +6,8 @@ What does this mod add:
 5+ Decks
 10+ Seals
 4 Vouchers
+
+NOTE: since im done with my regional contest updates will pick up on pace again.
 
 Additional:
 all cards are undiscovered to provide at least 
