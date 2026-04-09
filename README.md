@@ -6,7 +6,7 @@ What does this mod add:
 5+ Decks
 10+ Seals
 4 Vouchers
-AND (as of Version 2.3.1) 1 New Currency!!!! (via a joker).
+AND (as of Version 2.3.2) 1 New Currency!!!! (via a joker).
 
 NOTE: since im done with my regional contest updates will pick up on pace again.
 
