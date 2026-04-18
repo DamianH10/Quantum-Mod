@@ -8,8 +8,6 @@ What does this mod add:
 4 Vouchers
 AND (as of Version 2.3.2) 1 New Currency!!!! (via a joker).
 
-NOTE: since im done with my regional contest updates will pick up on pace again.
-
 Additional:
 all cards are undiscovered to provide at least 
 a semblence of a challange in finding them all.
