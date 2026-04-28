@@ -1,3 +1,5 @@
+Updates are guaranteed to be at LEAST mothly!
+
 This mod is (vaguely) based around Quantum (&Nucear) stuff (but also includes some more random stuff), as you can tell by the name. 
 What does this mod add:
 100+ Jokers
