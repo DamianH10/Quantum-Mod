@@ -15,7 +15,7 @@ all cards are undiscovered to provide at least
 a semblence of a challange in finding them all.
 
 Fun Fact:
-This mod started out as a herdcode project, but it was ABSOLUTE
+This mod started out as a hardcode project, but it was ABSOLUTE
 AGONY to hardcode, scince there was basically NO documentation.
 So this new version is made in Jokerforge.
 old version: https://github.com/DamianH10/OLD-Quantum-Mod-balatro
