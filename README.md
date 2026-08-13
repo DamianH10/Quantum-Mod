@@ -2,10 +2,10 @@ Updates are guaranteed to be at LEAST mothly!
 
 This mod is (vaguely) based around Quantum (&Nucear) stuff (but also includes some more random stuff), as you can tell by the name. 
 What does this mod add:
-100+ Jokers
-10+ Consumables
-1 edition (currently)
-5+ Decks
+150+ Jokers
+28 Consumables
+2 editions
+10+ Decks
 10+ Seals
 4 Vouchers
 AND (as of Version 2.3.2) 1 New Currency!!!! (via a joker).
